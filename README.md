@@ -13,6 +13,7 @@ All of our code is licensed under GPLv3 with a few exceptions:
 
 #Notes
 Use latest MESA.
+
 Code re-organization needed at some point.
 
 #Build Client
